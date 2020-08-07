@@ -1,4 +1,4 @@
-### Hi there, I'm Muhammad Omar - aka [Omaroovee][website] 👋
+### Hi there, I'm Muhammad Omar - aka [Omaroovee] 👋
 
 
 ### Connect with me:
@@ -22,14 +22,13 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
 <br />
-<br />
 
 ---
 
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Omaroovee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Omaroovee&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/Omaroovee
 [linkedin]: https://linkedin.com/in/Omaroovee
