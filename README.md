@@ -1,14 +1,6 @@
 ### Hi there, I'm Muhammad Omar - aka [Omaroovee] 👋
 
 
-### Connect with me:
-
-[<img align="left" alt="Omaroovee" width="22px" src="https://github.com/Omaroovee" />][website]
-[<img align="left" alt="Omaroovee | Twitter" width="22px" src="https://twitter.com/Omaroovee" />][twitter]
-[<img align="left" alt="Omaroovee | LinkedIn" width="22px" src="https://www.linkedin.com/in/omaroovee/" />][linkedin]
-
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
@@ -30,9 +22,6 @@
 
 <br />
 <br />
-
-
-<!--
 **Omaroovee/Omaroovee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
