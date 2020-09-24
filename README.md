@@ -1,5 +1,13 @@
 ### Hi there, I'm Muhammad Omar - aka [Omaroovee] 👋
 
+-   :hammer_and_pick: I do Python for Devlopment and Scripting, Go for Development and for Kubernetes Services, and Ruby for Development.
+-   :package: I build softwares and I automate boring stuff.
+-   :airplane: I travel between Amazon Web Services and Google Cloud Platform regions. 
+-   :ship: I ship softwares in Docker and I drive the Kubernetes Clusters on Prem and on the Cloud.
+-   :penguin: I love to play with Linux penguin. 
+-   :seedling: Learning competitive programming.
+-   :man: Pronouns: he/him.
+
 
 ### Connect with me:
 
