@@ -2,7 +2,7 @@
 
 I'm Muhammad Omar a Backend / DevOps Engineer from Cairo, Egypt.
 
--   :hammer_and_pick: I do Python,JavaScript and GoLang for Devlopment and Scriptingt.
+-   :hammer_and_pick: I do Python,JavaScript and GoLang for Devlopment and Scripting.
 -   :package: I build softwares and I automate boring stuff.
 -   :airplane: I travel between Amazon Web Services regions. 
 -   :ship: I ship softwares in Docker and I drive the Kubernetes Clusters on Prem and on the Cloud.
