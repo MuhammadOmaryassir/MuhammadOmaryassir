@@ -45,11 +45,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 
 
----
-
-<img align="left" alt="Omaroovee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Omaroovee&show_icons=true&hide_border=true&count_private=true" />
-
-
 [twitter]: https://twitter.com/Omaroovee
 [linkedin]: https://linkedin.com/in/Omaroovee
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
